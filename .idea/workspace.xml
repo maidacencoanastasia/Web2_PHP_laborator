@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="07ce572c-3d5f-4e0d-956a-8cd4399238fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/m_OSP_works.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/produse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registru.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_classwork.php" beforeDir="false" afterPath="$PROJECT_DIR$/index_classwork.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +57,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599134523510</updated>
-      <workItem from="1599134526316" duration="5313000" />
+      <workItem from="1599134526316" duration="5442000" />
+      <workItem from="1599473608962" duration="4740000" />
+      <workItem from="1599594132652" duration="329000" />
     </task>
+    <task id="LOCAL-00001" summary="доп функции массива">
+      <created>1599141524366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599141524367</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="доп функции массива" />
+    <MESSAGE value="Classwork with table of products" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classwork with table of products" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Deployment" timestamp="1599594371836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1599594371836" />
     <state x="647" y="310" key="Github.ShareDialog" timestamp="1599135548624">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -58,9 +105,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="572" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599135687105" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599141430263">
+    <state x="604" y="335" key="NewPhpFileDialog" timestamp="1599477776988">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599141430263" />
+    <state x="604" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1599477776988" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599141528314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599141528314" />
   </component>
 </project>
